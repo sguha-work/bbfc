@@ -1,0 +1,29 @@
+{
+  "name": "bbfc",
+  "version": "0.0.1",
+  "description": "This is a plugin of Fusion Charts for Backbone js",
+  "main": "bbfc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sguha-work/bbfc.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "BackBone",
+    "JS-framework",
+    "Charting",
+    "Fusion",
+    "Charts"
+  ],
+  "author": "Sahasrangshu Guha",
+  "license": "MIT",
+  "homepage": "https://github.com/sguha-work/bbfc",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.2.4"
+  }
+}
